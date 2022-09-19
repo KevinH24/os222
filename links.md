@@ -29,3 +29,9 @@ Explain what Cyber Security is. Why it is important, How it works, etc.
 2. [Difference Between Security and Protection] (https://www.geeksforgeeks.org/difference-between-security-and-protection/)
 <br>
 Explains the fundemental difference between the two.
+
+<br>
+<hr>
+&copy; {{ site.author }}
+<hr>
+<br>
