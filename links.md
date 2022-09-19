@@ -29,6 +29,6 @@ Explains the fundemental difference between the two.
 
 <br>
 <hr>
-&copy; {{ site.author }}
+{{ site.author }}
 <hr>
 <br>
