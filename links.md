@@ -3,10 +3,12 @@ permalink: LINKS/
 ---
 <span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}</span>
 <br><br>
-[HOME](https://kevinh24.github.io/os222/) ---
-[LINKS](https://kevinh24.github.io/os222/LINKS/) ---
-[LOG](https://kevinh24.github.io/os222/TXT/mylog.txt) ---
-[GITHUB](https://github.com/kevinh24/os222)
+[HOME]({{ site.baseurl }}/) ---
+[LINKS]({{ site.baseurl }}/LINKS/) ---
+[TIPS]({{ site.baseurl }}/TIPS/) ---
+[LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
+[TARBALL]({{ site.tarballink}}) ---
+[GITHUB]({{ site.githublink }})
 <br>
 <hr>
 
