@@ -27,6 +27,13 @@ Explain what Cyber Security is. Why it is important, How it works, etc.
 2. [Difference Between Security and Protection](https://www.geeksforgeeks.org/difference-between-security-and-protection/)<br>
 Explains the fundemental difference between the two.
 
+## WEEK 03
+1. [File System Interface](https://www.youtube.com/watch?v=duUccxFcJ9g)<br>
+A great video to explain one of Week 3 Materials
+
+2. [The Complete PGP/GPG Encryption Decryption Tutorial | GnuPG | Cryptography and System Security](https://www.youtube.com/watch?v=_uXb7gsJwoM)<br>
+Very good tutorial on GPG encryption
+
 <br>
 <hr>
 {{ site.author }}
