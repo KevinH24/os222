@@ -31,3 +31,7 @@ ZCZC W03 30  L26 GnuPG, key-gen, encrypt/decrypt.
 ZCZC W03 10  L41 TXT/mylog.txt related.
 ZCZC W03 10  L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc.
 ZCZC W03 120 L13 Assignment #03
+ZCZC W04 200 L02 ZOOM meetings related
+ZCZC W04 120 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W04 13  L05 Quiz related including studying
+ZCZC W04 45  L14 Assignment #04
