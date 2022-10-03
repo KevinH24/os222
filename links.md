@@ -34,6 +34,13 @@ A great video to explain one of Week 3 Materials
 2. [The Complete PGP/GPG Encryption Decryption Tutorial | GnuPG | Cryptography and System Security](https://www.youtube.com/watch?v=_uXb7gsJwoM)<br>
 Very good tutorial on GPG encryption
 
+## WEEK 04
+1. [C Programming Tutorial for Beginners](https://youtu.be/KJgsSFOSQv0)<br>
+Great video to learn the basics of C programming
+
+2.[Paging (OS)](https://www.youtube.com/watch?v=LKYKp_ZzlvM)<br>
+Great video that explains how paging works
+
 <br>
 <hr>
 {{ site.author }}
