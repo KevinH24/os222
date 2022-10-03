@@ -38,9 +38,8 @@ Very good tutorial on GPG encryption
 1. [C Programming Tutorial for Beginners](https://youtu.be/KJgsSFOSQv0)<br>
 Great video to learn the basics of C programming
 
-2.[Paging (OS)](https://www.youtube.com/watch?v=LKYKp_ZzlvM)<br>
+2. [Paging (OS)](https://www.youtube.com/watch?v=LKYKp_ZzlvM)<br>
 Great video that explains how paging works
-
 <br>
 <hr>
 {{ site.author }}
