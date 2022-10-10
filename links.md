@@ -40,6 +40,13 @@ Great video to learn the basics of C programming
 
 2. [Paging (OS)](https://www.youtube.com/watch?v=LKYKp_ZzlvM)<br>
 Great video that explains how paging works
+
+## WEEK 05
+1. [16.2.2 Basics of Virtual Memory](https://www.youtube.com/watch?v=8yO2FBBfaB0)<br>
+Great video to complement this weeks material
+
+2.[Demand Paging and Page Faults](https://www.youtube.com/watch?v=58TYdisGrX0)<br>
+The video thoroughly explains both concepts, good for those who have trouble understanding it
 <br>
 <hr>
 {{ site.author }}
