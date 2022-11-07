@@ -47,6 +47,11 @@ Great video to complement this weeks material
 
 2. [Demand Paging and Page Faults](https://www.youtube.com/watch?v=58TYdisGrX0)<br>
 The video thoroughly explains both concepts, good for those who have trouble understanding it
+
+## WEEK 05
+1. [Threading Tutorial #1 - Concurrency, Threading and Parallelism Explained](https://www.youtube.com/watch?v=olYdb0DdGtM&t=247s)<br>
+Complementary video explaining some of the thing in this weeks material
+2.[All You Need To Know About Processes in Linux [Comprehensive Guide]](https://www.tecmint.com/linux-process-management/)<br>
 <br>
 <hr>
 {{ site.author }}
