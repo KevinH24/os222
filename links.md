@@ -53,6 +53,11 @@ The video thoroughly explains both concepts, good for those who have trouble und
 Complementary video explaining some of the thing in this weeks material
 
 2.[All You Need To Know About Processes in Linux [Comprehensive Guide]](https://www.tecmint.com/linux-process-management/)<br>
+
+## WEEK07
+1. [What is deadlock | Necessary Conditions | OS | Lec-63 | BhanuPriya](https://www.youtube.com/watch?v=FVmwvZNQgt0)<br>
+Great explanation to one of the materials that are needed for this week
+
 <br>
 <hr>
 {{ site.author }}
